@@ -1,5 +1,8 @@
 data/
 venv/
+__pycache__/
+*.pyc
+*.pyo
 *.pt
 *.pth
 *.mp4
@@ -7,3 +10,12 @@ venv/
 *.png
 *.jpg
 *.jpeg
+*.pkl
+*.joblib
+.DS_Store
+*.log
+.ipynb_checkpoints/
+*.tmp
+build/
+dist/
+*.egg-info/
